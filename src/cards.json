@@ -1,0 +1,77 @@
+
+
+
+[
+  {
+    "id": 1,
+    "name": "Superman",
+    "image": "https://i.imgur.com/cEyEaoF.png",
+    "count": 0
+  },
+  {
+    "id": 2,
+    "name": "Captain America",
+    "image": "https://i.imgur.com/Q0KilmO.png",
+    "count": 0
+  },
+  {
+    "id": 3,
+    "name": "Fantastic Four",
+    "image": "https://i.imgur.com/aJ7I26q.png",
+    "count": 0
+  },
+  {
+    "id": 4,
+    "name": "Batman",
+    "image": "https://i.imgur.com/Uvcp8kt.png",
+    "count": 0
+  },
+  {
+    "id": 5,
+    "name": "Green Lantern",
+    "image": "https://i.imgur.com/PFW2yoV.png",
+    "count": 0
+  },
+  {
+    "id": 6,
+    "name": "Iron Man",
+    "image": "https://i.imgur.com/ZY56tot.png",
+    "count": 0
+  },
+  {
+    "id": 7,
+    "name": "Wonder Woman",
+    "image": "https://i.imgur.com/CPfHVkn.png",
+    "count": 0
+  },
+  {
+    "id": 8,
+    "name": "The Flash",
+    "image": "https://i.imgur.com/b7EQdIi.png",
+    "count": 0
+  },
+  {
+    "id": 9,
+    "name": "Thor",
+    "image": "https://i.imgur.com/0rJyrO5.png",
+    "count": 0
+  },
+  {
+    "id": 10,
+    "name": "The Avengers",
+    "image": "https://i.imgur.com/VEPWJPB.png",
+    "count": 0
+  },
+  {
+    "id": 11,
+    "name": "X-Men",
+    "image": "https://i.imgur.com/bgq76qa.png",
+    "count": 0
+  },
+  {
+    "id": 12,
+    "name": "Spiderman",
+    "image": "https://i.imgur.com/1xj1XAh.png",
+    "count": 0
+  }
+]
