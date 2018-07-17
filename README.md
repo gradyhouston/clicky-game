@@ -1,4 +1,4 @@
-Superhero Memory Game
+<h3>Superhero Memory Game</h3>
 
 See if you can remember to not click on the same image twice!
 
